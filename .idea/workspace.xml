@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33f9e08b-779c-421e-83d8-6b064ee39798" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="33f9e08b-779c-421e-83d8-6b064ee39798" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +37,7 @@
       <option name="presentableId" value="Default" />
       <updated>1629495178117</updated>
       <workItem from="1629495181151" duration="770000" />
-      <workItem from="1629509304525" duration="2523000" />
+      <workItem from="1629509304525" duration="3210000" />
     </task>
     <task id="LOCAL-00001" summary="prueba01">
       <created>1629511754590</created>
@@ -70,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629512829368</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="modificacion2">
+      <created>1629513033856</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1629513033856</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,6 +84,7 @@
     <MESSAGE value="prueba01" />
     <MESSAGE value="prueba001" />
     <MESSAGE value="modificacion" />
-    <option name="LAST_COMMIT_MESSAGE" value="modificacion" />
+    <MESSAGE value="modificacion2" />
+    <option name="LAST_COMMIT_MESSAGE" value="modificacion2" />
   </component>
 </project>
