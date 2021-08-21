@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33f9e08b-779c-421e-83d8-6b064ee39798" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +40,7 @@
       <option name="presentableId" value="Default" />
       <updated>1629495178117</updated>
       <workItem from="1629495181151" duration="770000" />
-      <workItem from="1629509304525" duration="2317000" />
+      <workItem from="1629509304525" duration="2523000" />
     </task>
     <task id="LOCAL-00001" summary="prueba01">
       <created>1629511754590</created>
@@ -62,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629512625279</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="modificacion">
+      <created>1629512829368</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1629512829368</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,6 +79,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="prueba01" />
     <MESSAGE value="prueba001" />
-    <option name="LAST_COMMIT_MESSAGE" value="prueba001" />
+    <MESSAGE value="modificacion" />
+    <option name="LAST_COMMIT_MESSAGE" value="modificacion" />
   </component>
 </project>

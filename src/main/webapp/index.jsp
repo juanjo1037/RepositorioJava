@@ -6,6 +6,7 @@
 <p>una configuración muuuuuuuuuuuuy sencilla
 modificiación4
     otra modificacion
+    otra modificacion
 </p>
 </body>
 </html>
