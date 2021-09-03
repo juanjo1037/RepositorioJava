@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33f9e08b-779c-421e-83d8-6b064ee39798" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,8 @@
       <workItem from="1629495181151" duration="770000" />
       <workItem from="1629509304525" duration="4070000" />
       <workItem from="1630103391518" duration="102000" />
-      <workItem from="1630120257540" duration="1024000" />
+      <workItem from="1630120257540" duration="1390000" />
+      <workItem from="1630343639033" duration="22000" />
     </task>
     <task id="LOCAL-00001" summary="prueba01">
       <created>1629511754590</created>
@@ -111,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630126604682</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="v2">
+      <created>1630126771699</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1630126771699</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +134,7 @@
     <MESSAGE value="calculadora" />
     <MESSAGE value="calculadora1" />
     <MESSAGE value="v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="v1" />
+    <MESSAGE value="v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="v2" />
   </component>
 </project>
