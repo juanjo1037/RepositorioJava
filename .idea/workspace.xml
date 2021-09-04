@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33f9e08b-779c-421e-83d8-6b064ee39798" name="Changes" comment="" />
+    <list default="true" id="33f9e08b-779c-421e-83d8-6b064ee39798" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +49,8 @@
       <workItem from="1630103391518" duration="102000" />
       <workItem from="1630120257540" duration="1390000" />
       <workItem from="1630343639033" duration="22000" />
-      <workItem from="1630706173515" duration="7599000" />
+      <workItem from="1630706173515" duration="9616000" />
+      <workItem from="1630775322775" duration="1909000" />
     </task>
     <task id="LOCAL-00001" summary="prueba01">
       <created>1629511754590</created>
@@ -146,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630732821042</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="v5">
+      <created>1630733046421</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1630733046421</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +175,7 @@
     <MESSAGE value="v2" />
     <MESSAGE value="v3" />
     <MESSAGE value="v4 con error" />
-    <option name="LAST_COMMIT_MESSAGE" value="v4 con error" />
+    <MESSAGE value="v5" />
+    <option name="LAST_COMMIT_MESSAGE" value="v5" />
   </component>
 </project>
