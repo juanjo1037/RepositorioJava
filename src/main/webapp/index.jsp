@@ -12,7 +12,7 @@ modificiación4
     SFDSF
     prueba
     prueba 12356234
-    prueba exitosa
-</p
+    prueba de correo
+</p>
 </body>
 </html>
